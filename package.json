@@ -7,7 +7,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "",
+    "predeploy": "npm run-script build",
     "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "test-coverage": "react-scripts test --coverage && codecov"

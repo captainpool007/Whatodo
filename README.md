@@ -1,12 +1,11 @@
 # JATA - Just Another Todo App
 
 A todo app built with React + Redux.
-
-[![Build Status](https://travis-ci.org/arthur-melo/just-another-todo-app.svg?branch=master)](https://travis-ci.org/arthur-melo/just-another-todo-app)  [![codecov](https://codecov.io/gh/arthur-melo/just-another-todo-app/branch/master/graph/badge.svg)](https://codecov.io/gh/arthur-melo/just-another-todo-app) [![renovate-app badge](https://img.shields.io/badge/renovate-app-blue.svg)](https://renovatebot.com/)
+Submitted as a summer training project by Rohan Chauhan at Vivekananda institute of professional studies
 
 ## Demo
 
-You can access the final project at: [just-another-todo-app.now.sh](https://just-another-todo-app.now.sh/) 👈
+You can access the final project at: [captainpool007.github.io/todoapp](https://captainpool007.github.io/todoapp/) 👈
 
 ## Pre-requisites
 
@@ -36,6 +35,4 @@ npm run start
 - [React-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 - [React-testing-library](https://testing-library.com/docs/react-testing-library/intro)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
